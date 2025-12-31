@@ -6,12 +6,12 @@ import { blogData } from "../Data/blogData";
 
 function BlogSection() {
     const ITEMS_PER_PAGE = 5;
-  const [page, setPage] = useState(1);
+    const [page, setPage] = useState(1);
 
-  const totalPages = Math.ceil(blogData.length / ITEMS_PER_PAGE);
+    const totalPages = Math.ceil(blogData.length / ITEMS_PER_PAGE);
 
-  const start = (page - 1) * ITEMS_PER_PAGE;
-  const visibleData = blogData.slice(start, start + ITEMS_PER_PAGE);
+    const start = (page - 1) * ITEMS_PER_PAGE;
+    const visibleData = blogData.slice(start, start + ITEMS_PER_PAGE);
 
   return (
     <>
