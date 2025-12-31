@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MrFaiz1234/ETHOS/static/css/main.e457cdd8.css",
-    "main.js": "/MrFaiz1234/ETHOS/static/js/main.ac6b22d3.js",
-    "static/js/453.ee87fd06.chunk.js": "/MrFaiz1234/ETHOS/static/js/453.ee87fd06.chunk.js",
-    "static/media/image.png": "/MrFaiz1234/ETHOS/static/media/image.99ef6c0fea2545d204fc.png",
-    "static/media/Image Container.png": "/MrFaiz1234/ETHOS/static/media/Image Container.73e34f462c2ef29b9e68.png",
-    "static/media/card3.png": "/MrFaiz1234/ETHOS/static/media/card3.fc03099de05ec32613f7.png",
-    "static/media/card2.png": "/MrFaiz1234/ETHOS/static/media/card2.7c8b89c8b7843cd2ecc5.png",
-    "static/media/img3.png": "/MrFaiz1234/ETHOS/static/media/img3.c5503826ffca936242a7.png",
-    "static/media/img1.png": "/MrFaiz1234/ETHOS/static/media/img1.6e0298b8a8837b3f8041.png",
-    "static/media/card1.png": "/MrFaiz1234/ETHOS/static/media/card1.18e5ea1c323696c3f176.png",
-    "static/media/img2.png": "/MrFaiz1234/ETHOS/static/media/img2.d0762e5b4cfa13f16a65.png",
-    "static/media/card5.png": "/MrFaiz1234/ETHOS/static/media/card5.f04460005cc197143b52.png",
-    "static/media/card4.png": "/MrFaiz1234/ETHOS/static/media/card4.d7e38a7e48180033f128.png",
-    "static/media/ETHOS_logowhite_v1 1 (1).png": "/MrFaiz1234/ETHOS/static/media/ETHOS_logowhite_v1 1 (1).4268bce0887f11f3c2a3.png",
-    "index.html": "/MrFaiz1234/ETHOS/index.html",
-    "main.e457cdd8.css.map": "/MrFaiz1234/ETHOS/static/css/main.e457cdd8.css.map",
-    "main.ac6b22d3.js.map": "/MrFaiz1234/ETHOS/static/js/main.ac6b22d3.js.map",
-    "453.ee87fd06.chunk.js.map": "/MrFaiz1234/ETHOS/static/js/453.ee87fd06.chunk.js.map"
+    "main.css": "/ETHOS/static/css/main.e457cdd8.css",
+    "main.js": "/ETHOS/static/js/main.abf7e1e2.js",
+    "static/js/453.ee87fd06.chunk.js": "/ETHOS/static/js/453.ee87fd06.chunk.js",
+    "static/media/image.png": "/ETHOS/static/media/image.99ef6c0fea2545d204fc.png",
+    "static/media/Image Container.png": "/ETHOS/static/media/Image Container.73e34f462c2ef29b9e68.png",
+    "static/media/card3.png": "/ETHOS/static/media/card3.fc03099de05ec32613f7.png",
+    "static/media/card2.png": "/ETHOS/static/media/card2.7c8b89c8b7843cd2ecc5.png",
+    "static/media/img3.png": "/ETHOS/static/media/img3.c5503826ffca936242a7.png",
+    "static/media/img1.png": "/ETHOS/static/media/img1.6e0298b8a8837b3f8041.png",
+    "static/media/card1.png": "/ETHOS/static/media/card1.18e5ea1c323696c3f176.png",
+    "static/media/img2.png": "/ETHOS/static/media/img2.d0762e5b4cfa13f16a65.png",
+    "static/media/card5.png": "/ETHOS/static/media/card5.f04460005cc197143b52.png",
+    "static/media/card4.png": "/ETHOS/static/media/card4.d7e38a7e48180033f128.png",
+    "static/media/ETHOS_logowhite_v1 1 (1).png": "/ETHOS/static/media/ETHOS_logowhite_v1 1 (1).4268bce0887f11f3c2a3.png",
+    "index.html": "/ETHOS/index.html",
+    "main.e457cdd8.css.map": "/ETHOS/static/css/main.e457cdd8.css.map",
+    "main.abf7e1e2.js.map": "/ETHOS/static/js/main.abf7e1e2.js.map",
+    "453.ee87fd06.chunk.js.map": "/ETHOS/static/js/453.ee87fd06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e457cdd8.css",
-    "static/js/main.ac6b22d3.js"
+    "static/js/main.abf7e1e2.js"
   ]
 }
