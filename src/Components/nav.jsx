@@ -11,10 +11,10 @@ function Nav() {
                     <li className="cursor-pointer">Ai Assistant </li>
                 </ul>
             </div>
-            <div className="h-[80px] md:w-[250px] w-[150px] flex justify-center items-center border">
+            <div className="h-[80px] md:w-[250px] w-[150px] flex justify-center items-center ">
                 <img className="md:h-full md:w-full w-[150px] object-contain p-6" src={logo} />
             </div>
-            <div className="h-[80px] p-0 m-0 md:w-[250px] w-[150px] flex justify-center items-center md:justify-start border">
+            <div className="h-[80px] p-0 m-0 md:w-[250px] w-[150px] flex justify-center items-center md:justify-start ">
                 <button className="bg-green-300 px-10 py-1 text-black font-semibold rounded-xl">
                     Login
                 </button>
