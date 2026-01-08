@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ETHOS/static/css/main.1220a2bf.css",
-    "main.js": "/ETHOS/static/js/main.e4378988.js",
+    "main.css": "/ETHOS/static/css/main.a744a5f0.css",
+    "main.js": "/ETHOS/static/js/main.082f1efd.js",
     "static/js/453.ee87fd06.chunk.js": "/ETHOS/static/js/453.ee87fd06.chunk.js",
     "static/media/image.png": "/ETHOS/static/media/image.99ef6c0fea2545d204fc.png",
     "static/media/Image Container.png": "/ETHOS/static/media/Image Container.73e34f462c2ef29b9e68.png",
@@ -15,12 +15,12 @@
     "static/media/card4.png": "/ETHOS/static/media/card4.d7e38a7e48180033f128.png",
     "static/media/ETHOS_logowhite_v1 1 (1).png": "/ETHOS/static/media/ETHOS_logowhite_v1 1 (1).4268bce0887f11f3c2a3.png",
     "index.html": "/ETHOS/index.html",
-    "main.1220a2bf.css.map": "/ETHOS/static/css/main.1220a2bf.css.map",
-    "main.e4378988.js.map": "/ETHOS/static/js/main.e4378988.js.map",
+    "main.a744a5f0.css.map": "/ETHOS/static/css/main.a744a5f0.css.map",
+    "main.082f1efd.js.map": "/ETHOS/static/js/main.082f1efd.js.map",
     "453.ee87fd06.chunk.js.map": "/ETHOS/static/js/453.ee87fd06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1220a2bf.css",
-    "static/js/main.e4378988.js"
+    "static/css/main.a744a5f0.css",
+    "static/js/main.082f1efd.js"
   ]
 }
