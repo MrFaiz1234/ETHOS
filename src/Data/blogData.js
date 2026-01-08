@@ -7,7 +7,7 @@ import img5 from "../images/card5.png";
 export const blogData = [
     {
     image: img5,
-    tag: "Color Analysis",
+    tag: "Data Analysis",
     title: "Your Complete Color Analysis Guide for 2025",
     description:
       "Discover your seasonal color palette and learn how to choose colors that complement your natural features. Understanding your undertones can transform your wardrobe.",

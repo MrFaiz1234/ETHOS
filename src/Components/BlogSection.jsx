@@ -83,10 +83,8 @@ function BlogSection() {
             <BlogCard key={index} {...item} />
           ))}
         </div>
-
       </div>
-
-      <Pagination
+        <Pagination
         currentPage={page}
         totalPages={totalPages}
         onPageChange={setPage}

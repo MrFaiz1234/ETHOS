@@ -16,7 +16,7 @@ function ComingSoon() {
                     <p className="text-gray-500 mt-2 mb-2">
                         Swipe outfit ideas like Tinder, explore more closet <br/> filters, build your own looks and ask Ethe for help if <br/> needed. Get the styling experience on our app
                     </p>
-                    <button className="mt-3 font-bold text-2xl text-white  px-10 py-2 rounded-lg bg-green-300">
+                    <button className="  mt-3 font-bold text-2xl text-white  px-10 py-2 rounded-lg bg-green-300">
                        Sign Up
                     </button>
                 </div>  
